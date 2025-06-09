@@ -1,63 +1,68 @@
 # 👋 Hey there, I’m Krina!
 
-🎓 Dual-wielding student by day:  
+🎓 Data explorer by day, pipeline builder by night:  
 💻 B.Tech in Computer Science @ Indus University  
-📊 BS in Data Science @ IIT Madras (Yes, I love data *that* much)
+📊 BS in Data Science & Applications @ IIT Madras  
+📈 Fluent in CSV, SQL, and sarcasm
 
 ---
 
-## 🛠️ What I'm Building (Besides My Career)
+## 🛠️ What I'm Building (Besides My Skillset)
 
-🧩 **Sparkify ETL Pipeline**  
-Extracts, Transforms, Loads — like a wizard but for music data 🎶  
-*PostgreSQL + Python + Star Schema ✨*
+📦 **E-Commerce ETL Pipeline**  
+Cleaning sales data like Marie Kondo — and it *sparks insights* ✨  
+*Snowflake + Pandas + Parquet*
 
-🛍️ **E-Commerce Data Pipeline**  
-Turning Parquet files into pretty tables you actually want to query  
-*Snowflake + Pandas + a lot of `.head()` and `.describe()`*
+🎧 **Sparkify Data Modeling Project**  
+Star schemas and music streaming data — my kind of mixtape  
+*PostgreSQL + Python + SQL*
 
-📹 **YouTube Engagement Analytics**  
-Cracked the code on what people binge-watch and why  
-*SQLite + Pandas + CSV export for the win*
+📊 **YouTube Analytics Dashboard**  
+Dissecting watch time and engagement with surgical precision  
+*SQLite + Pandas + Power BI*
 
 ---
 
-## 🚀 My Stack (a.k.a. Tools I Talk to More Than People)
+## 💼 My Stack (a.k.a. Toolbox of Awesomeness)
 
 **Languages**: `Python`, `SQL`, `Java`, `C++`  
-**Data Warehousing**: `PostgreSQL`, `Snowflake`, `SQLite`  
-**Data Friends**: `Pandas`, `NumPy`, `Parquet`, `Jupyter`  
-**Version Control**: `Git`, `GitHub` (obviously)  
-**Currently Leveling Up In**: `Airflow`, `dbt`, `Azure` ☁️  
+**Data Tools**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly`  
+**Warehousing**: `PostgreSQL`, `Snowflake`, `SQLite`  
+**Analytics & BI**: `Power BI`, `Jupyter Notebook`  
+**Pipeline Skills**: `ETL`, `Data Cleaning`, `Dimensional Modeling`, `Data Visualization`  
+**Currently Leveling Up**: `Airflow`, `dbt`, `Azure`, `DataOps` ☁️  
 
 ---
 
-## 🤓 Certifications & Achievements (aka XP Earned)
+## 📜 Certifications & Achievements
 
-🏅 Foundation in Data Science – IIT Madras  
-📘 Intro to Data Engineering on Azure – Microsoft Learn  
-🥷 Survived JSON formatting errors at 2 AM
+🎓 Foundation in Data Science – IIT Madras  
+☁️ Intro to Data Engineering on Azure – Microsoft Learn  
+🏆 Deloitte Data Analytics Virtual Internship – Forage  
+🐞 Debugged ETL errors that made me question reality  
 
 ---
 
-## 📡 Let’s Connect (I promise I check my email)
+## 📡 Let’s Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/krinapatel08)  
-- 📮 [Email](mailto:krinapatel0807@gmail.com)  
-- 🐍 Check out my [Python experiments on GitHub](https://github.com/krinapatel08)
+📬 [Email Me](mailto:krinapatel0807@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/krinapatel08)  
+💻 [GitHub](https://github.com/krinapatel08)
 
 ---
 
 ## ✨ Fun Facts
 
-- 🔎 I believe every good data pipeline starts with a good Google search.
-- 🧃 I like my data clean and my code commented.
-- 🛠️ Still figuring out Airflow… and adulthood.
+- 💡 I turn messy datasets into meaningful insights  
+- 🔧 Break things often — fix them better  
+- 🤹 Currently juggling: school, stats, and streaming APIs  
+- 💬 Fluent in: Python, SQL, and coffee-fueled debugging  
 
 ---
 
-> “Without data, you're just another person with an opinion.” – W. Edwards Deming  
-> _(Or as I call it: my reason to love ETL)_
+> “In God we trust. All others must bring data.” – W. Edwards Deming  
+> _(My motto while debugging null values at 1 AM)_
 
 ---
-🎯 **Looking for** a Data Engineering Internship where I can break, fix, and build data pipelines like it's nobody’s business. Let’s chat!
+
+🎯 **Actively seeking** Data Engineering & Analytics internships where I can transform raw data into real impact. Let’s connect!
