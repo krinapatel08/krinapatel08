@@ -1,68 +1,64 @@
-# 👋 Hey there, I’m Krina!
+# 👋 Hi, I’m Krina — I turn coffee and code into mobile apps!
 
-🎓 Data explorer by day, pipeline builder by night:  
-💻 B.Tech in Computer Science @ Indus University  
-📊 BS in Data Science & Applications @ IIT Madras  
-📈 Fluent in CSV, SQL, and sarcasm
+📱 React Native Developer | 💻 B.Tech CSE @ Indus University  
+🎓 BS Data Science @ IIT Madras | ⚙️ UI Lover + State Manager + API Whisperer
 
 ---
 
-## 🛠️ What I'm Building (Besides My Skillset)
+## 🚧 What I’m Building (and occasionally breaking 😅)
 
-📦 **E-Commerce ETL Pipeline**  
-Cleaning sales data like Marie Kondo — and it *sparks insights* ✨  
-*Snowflake + Pandas + Parquet*
+🛒 **StickyShop – Notes & Cart App**  
+Redux Toolkit + redux-persist magic with clean UI & full CRUD flow  
+*React Native • Redux Toolkit • AsyncStorage*
 
-🎧 **Sparkify Data Modeling Project**  
-Star schemas and music streaming data — my kind of mixtape  
-*PostgreSQL + Python + SQL*
+🌦️ **Weather App**  
+Minimal yet aesthetic weather UI with real-time API + dynamic gradients  
+*React Native • REST API • Gradient Backgrounds*
 
-📊 **YouTube Analytics Dashboard**  
-Dissecting watch time and engagement with surgical precision  
-*SQLite + Pandas + Power BI*
-
----
-
-## 💼 My Stack (a.k.a. Toolbox of Awesomeness)
-
-**Languages**: `Python`, `SQL`, `Java`, `C++`  
-**Data Tools**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly`  
-**Warehousing**: `PostgreSQL`, `Snowflake`, `SQLite`  
-**Analytics & BI**: `Power BI`, `Jupyter Notebook`  
-**Pipeline Skills**: `ETL`, `Data Cleaning`, `Dimensional Modeling`, `Data Visualization`  
-**Currently Leveling Up**: `Airflow`, `dbt`, `Azure`, `DataOps` ☁️  
+🧮 **YouTube Analytics Dashboard** *(Data never sleeps)*  
+Because plotting graphs is also fun when not debugging styles  
+*Power BI • Pandas • SQL*
 
 ---
 
-## 📜 Certifications & Achievements
+## 🧰 Toolbox of Wonders
 
-🎓 Foundation in Data Science – IIT Madras  
-☁️ Intro to Data Engineering on Azure – Microsoft Learn  
-🏆 Deloitte Data Analytics Virtual Internship – Forage  
-🐞 Debugged ETL errors that made me question reality  
+**Mobile & Frontend**:  
+`React Native` · `Redux Toolkit` · `Expo` · `JavaScript` · `Navigation` · `AsyncStorage`
 
----
+**Data (My Secret Power) 💾**:  
+`Python` · `SQL` · `Power BI` · `Pandas` · `PostgreSQL`
 
-## 📡 Let’s Connect!
-
-📬 [Email Me](mailto:krinapatel0807@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/krinapatel08)  
-💻 [GitHub](https://github.com/krinapatel08)
+**Dev Tools**:  
+`VS Code` · `GitHub` · `npm/yarn` · `Metro Debugger` · `Figma (sometimes 😬)`
 
 ---
 
-## ✨ Fun Facts
+## 🎯 What I Do (Other Than Hunt Bugs)
 
-- 💡 I turn messy datasets into meaningful insights  
-- 🔧 Break things often — fix them better  
-- 🤹 Currently juggling: school, stats, and streaming APIs  
-- 💬 Fluent in: Python, SQL, and coffee-fueled debugging  
-
----
-
-> “In God we trust. All others must bring data.” – W. Edwards Deming  
-> _(My motto while debugging null values at 1 AM)_
+- Build smooth mobile UIs that users don’t want to uninstall  
+- Architect state like a backend engineer (thanks, Redux!)  
+- Integrate APIs like a pro without breaking the internet  
+- Debug layout issues with intense squinting + prayer  
+- Occasionally analyze data because I still love charts ❤️
 
 ---
 
-🎯 **Actively seeking** Data Engineering & Analytics internships where I can transform raw data into real impact. Let’s connect!
+## 📬 Let’s Connect
+
+📮 [Email](mailto:krinapatel0807@gmail.com) · 👩‍💻 [GitHub](https://github.com/krinapatel08) · 💼 [LinkedIn](https://linkedin.com/in/krinapatel08)
+
+---
+
+## 😄 Fun Facts
+
+- Dark mode enthusiast 🌚  
+- Proud member of the `console.log()` debugging squad  
+- Currently working on: better animations, smoother state, and remembering semicolons  
+- Motto: *“If it works on my phone, it’s good enough.”*
+
+---
+
+> “Design like a user. Code like a dev. Think like a product owner.”
+
+👀 **Currently looking for React Native/Data analyst internships** where I can turn wireframes into wonders!
